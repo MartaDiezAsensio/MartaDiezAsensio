@@ -6,9 +6,8 @@
   <a href="www.linkedin.com/in/marta-diez-asensio">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a>
+  </ br> 
   <img src="https://komarev.com/ghpvc/?username=MartaDiezAsensio&style=flat-square&color=blue" alt=""/>
-  </a>
 </div>
 
 <h1>
