@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlib3hsdm5yYWFjZ3Q4OWEwamk5a2V2cGZuNzNreXNkMnVkdjltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SlKBbQNNZNfcPRWYW7/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+
 
 ### Hi there 👋
 
