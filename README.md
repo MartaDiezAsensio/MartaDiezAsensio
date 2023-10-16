@@ -12,7 +12,7 @@
    <img src="https://komarev.com/ghpvc/?username=MartaDiezAsensio&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center" color=#000000>Welcome to my Github!</h1>
+<h1 align="center" color=#892476>Welcome to my Github!</h1>
 
 - ⛓️ Working on **Smart Contracts** and **Blockchain Backend** Development. 
 - 👩🏽‍💻 Studying Computer Science at **42 Barcelona**. 
