@@ -12,22 +12,12 @@
    <img src="https://komarev.com/ghpvc/?username=MartaDiezAsensio&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="welcome" align="center">
-  <h1>Welcome to my Github!</h1>
-</div>
+<h1>Welcome to my Github!</h1>
 
+- ⛓️ Working on **Smart Contracts** and **Blockchain Backend** Development. 
+- 👩🏽‍💻 Studying Computer Science at **42 Barcelona**. 
+- 🫱🏽‍🫲🏾 I’m looking to collaborate on Blockchain and Open Source Projects.
+- 📈 I have special interest on DeFi, although I am keen to all-things decentralized.
+- 🔎 Entepreneur and Curious learner by nature. 
+- 💬 Open to discuss about ANY topic...
 
-<!--
-**MartaDiezAsensio/MartaDiezAsensio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
