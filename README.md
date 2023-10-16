@@ -13,8 +13,7 @@
 </div>
 
 <div id="header" align="center">
-  <h1>Hello!</h1>
-  <img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" width="100"/>
+  <h1>Hello! <img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" width="100"/></h1>
 </div>
 
 
