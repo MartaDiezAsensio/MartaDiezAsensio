@@ -13,7 +13,7 @@
 </div>
 
 <div id="welcome" align="center">
-  <a href="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif"></a><h1>Welcome to my Github!</h1>
+  <img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" width="100"/><h1>Welcome to my Github!</h1>
 </div>
 
 
