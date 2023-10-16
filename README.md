@@ -12,8 +12,8 @@
    <img src="https://komarev.com/ghpvc/?username=MartaDiezAsensio&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="header" align="center">
-  <h1>Hello! <img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" width="100"/></h1>
+<div id="welcome" align="center">
+  <a href="[http://](https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif)"></a><h1>Welcome to my Github!</h1>
 </div>
 
 
