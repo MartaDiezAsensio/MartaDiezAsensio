@@ -14,12 +14,16 @@
 
 <h1 align="center" style="color:blue;">Welcome to my Github!</h1>
 
+### :woman_technologist: &nbsp;About Me :
+
 - ⛓️ Working on **Smart Contracts** and **Blockchain Backend** Development. 
 - 👩🏽‍💻 Studying Computer Science at **42 Barcelona**. 
 - 🫱🏽‍🫲🏾 I’m looking to collaborate on Blockchain and Open Source Projects.
 - 📈 I have special interest on DeFi, although I am keen to all-things decentralized.
 - 🔎 Entrepreneur and Curious learner by nature. 
 - 💬 Open to discuss about ANY topic...
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -34,4 +38,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MartaDiezAsensio&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartaDiezAsensio&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
 
