@@ -12,10 +12,10 @@
    <img src="https://komarev.com/ghpvc/?username=MartaDiezAsensio&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
-  Hello!
-  <img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" width="30px"/>
-</h1>
+<h1>Hello!</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" width="100"/>
+</div>
 
 
 <!--
