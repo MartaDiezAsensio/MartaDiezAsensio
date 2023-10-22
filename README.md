@@ -21,7 +21,7 @@
 - 🫱🏽‍🫲🏾 I’m looking to collaborate on Blockchain and Open Source Projects.
 - 📈 I have special interest on DeFi, although I am keen to all-things decentralized.
 - 🔎 Entrepreneur and Curious learner by nature. 
-- 💬 Open to discuss about ANY topic...
+- 💬 Open to discuss about any topic...
 
 ---
 
