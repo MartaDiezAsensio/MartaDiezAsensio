@@ -16,13 +16,8 @@
 
 ### ℹ️ About Me :
 
-- ⛓️ Working on **Smart Contracts** and **Blockchain Backend** Development. 
-- 👩🏽‍💻 Studying Computer Science at **42 Barcelona**. 
-- 🫱🏽‍🫲🏾 I’m looking to collaborate on Blockchain and Open Source Projects.
-- 📈 I have special interest on DeFi, although I am keen to all-things decentralized.
-- 🔎 Entrepreneur and Curious learner by nature. 
-- 💬 Open to discuss about any topic...
-
+- ⛓️ Working on **AI** and **Blockchain**. 
+- 💬 Let's chat
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
